@@ -63,4 +63,4 @@ group :test do
 end
 
 gem "bootstrap"
-gem 'dartsass-rails'
+gem "dartsass-rails"
